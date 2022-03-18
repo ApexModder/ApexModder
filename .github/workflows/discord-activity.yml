@@ -16,6 +16,5 @@ jobs:
         uses: CodexLink/discord-activity-badge@v1.0
         with:
           BADGE_IDENTIFIER_NAME: activity
-          URL_TO_REDIRECT_ON_CLICK: https://apexmods.xyz
           DISCORD_USER_ID: ${{ secrets.DISCORD_USER_ID }}
           DISCORD_BOT_TOKEN: ${{ secrets.DISCORD_BOT_TOKEN }}
