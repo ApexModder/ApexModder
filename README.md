@@ -1,4 +1,4 @@
-[![activity](https://badgen.net/badge/Idle/A%20programmer%20is%20just%20a%20tool%20which%20transforms%20caffeine%20into%20code.?color=edca00&labelColor=edca00&icon=discord)](https://github.com/https://apexmods.xyz)
+[![activity](https://badgen.net/badge/Idle/A%20programmer%20is%20just%20a%20tool%20which%20transforms%20caffeine%20into%20code.?color=edca00&labelColor=edca00&icon=discord)](https://github.com/ApexModder/ApexModder)
 
 ### Hi there 👋
 
