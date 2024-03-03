@@ -7,44 +7,7 @@
 
 📊 **Weekly development breakdown**
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-832%20hrs%2041%20mins-blue)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
-
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.6%20million%20lines%20of%20code-blue)
-
-**🐱 My GitHub Data** 
-
-> 📦 14.1 kB Used in GitHub's Storage 
- > 
-> 🏆 199 Contributions in the Year 2024
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 12 Public Repositories 
- > 
-> 🔑 4 Private Repositories 
- > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                3596 commits        ██████░░░░░░░░░░░░░░░░░░░   22.64 % 
-🌆 Daytime                2697 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.98 % 
-🌃 Evening                4342 commits        ███████░░░░░░░░░░░░░░░░░░   27.34 % 
-🌙 Night                  5249 commits        ████████░░░░░░░░░░░░░░░░░   33.05 % 
-```
-📅 **I'm Most Productive on Wednesday** 
-
-```text
-Monday                   2132 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.42 % 
-Tuesday                  2001 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.60 % 
-Wednesday                2896 commits        █████░░░░░░░░░░░░░░░░░░░░   18.23 % 
-Thursday                 2864 commits        █████░░░░░░░░░░░░░░░░░░░░   18.03 % 
-Friday                   2105 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.25 % 
-Saturday                 2009 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.65 % 
-Sunday                   1877 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.82 % 
-```
-
+![Code Time](http://img.shields.io/badge/Code%20Time-839%20hrs%2059%20mins-blue)
 
 📊 **This Week I Spent My Time On** 
 
@@ -76,12 +39,8 @@ TypeScript               1 repo              █░░░░░░░░░░�
 
 
 
-**Timeline**
 
-![Lines of Code chart](https://raw.githubusercontent.com/ApexModder/ApexModder/master/assets/bar_graph.png)
-
-
- Last Updated on 03/03/2024 18:54:27 UTC
+ Last Updated on 03/03/2024 19:00:19 UTC
 <!--END_SECTION:waka-->
 
 ---
