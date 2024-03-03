@@ -3,6 +3,9 @@
 </div>
 <h2 align="center">Just your average hobbyist modder & gamer.</h2>
 
+---
+
+📊 **Weekly development breakdown**
 <!--START_SECTION:waka-->
 
 ```txt
@@ -14,3 +17,5 @@ TOML                  1 hr 23 mins    ▓░░░░░░░░░░░░░
 ```
 
 <!--END_SECTION:waka-->
+
+---
