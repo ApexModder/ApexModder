@@ -28,4 +28,4 @@ jobs:
           SHOW_LANGUAGE_PER_REPO: false
           SHOW_SHORT_INFO: false
           SHOW_LOC_CHART: false
-          DEBUG_LOGGING: false
+          DEBUG_LOGGING: true
