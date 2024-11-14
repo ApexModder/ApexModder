@@ -35,6 +35,6 @@ jobs:
           SHOW_LANGUAGE_PER_REPO: false
           SHOW_SHORT_INFO: false
           SHOW_LOC_CHART: false
-          IGNORED_REPOS: "gradle/gradle"
+          IGNORED_REPOS: "gradle"
           SYMBOL_VERSION: 2
           DEBUG_LOGGING: true
