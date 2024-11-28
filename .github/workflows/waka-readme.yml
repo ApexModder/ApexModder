@@ -8,7 +8,7 @@ jobs:
   update-readme:
     name: Update Readme with Metrics
     # runs-on: apex
-    runs-on: ubuntu-latest
+    runs-on: apex
     steps:
       - uses: anmol098/waka-readme-stats@master
         with:
